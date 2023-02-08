@@ -10,9 +10,9 @@ Fizemos as seguintes perguntas:
 * 1 - Top 5 países mais felizes.
 * 2 - Top 5 países mais infelizes.
 * 3 - Qual dos fatores possui maior correlação com o índice de felicidade?
-* 4 - Quais são os países com maior expectativa de vida e PIB Per Capita? Há alguma relação entre as variáveis?
+* 4 - Quais são os 5 países com maior expectativa de vida e PIB Per Capita? Há alguma relação entre as variáveis?
 * 5 - A percepção de generosidade depende do PIB Per Capita?
 * 6 - Qual a relação entre corrupção e PIB Per Capita?
-* 7 - Quais países estão mais distantes do país distópico de referência?
+* 7 - Quais são os 5 países que estão mais distantes do país distópico de referência?
 * 8 - Qual é a média do índice de felicidade por região do planeta?
 
