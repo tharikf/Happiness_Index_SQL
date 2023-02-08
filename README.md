@@ -7,7 +7,9 @@ O PostgreSQL é um sistema gerenciador de banco de dados que permite armazenar, 
 Primeiro formulamos perguntas que possam ser respondidas e que suas respostas sejam relevantes para o conhecimento geral. A base de dados contém um índice que representa um índice de felicidade médio experimentado por um cidadão de determinado país. Além disso, alguns fatores considerados relevantes para explicar o índice de felicidade são apresentados também no formato de índice. São eles: PIB Per Capita, Suporte Social, Saúde, Liberdade, Generosidade e Percepção de Corrupção.
 
 Fizemos as seguintes perguntas:
-* 1 - Top 5 países mais felizes.\
+
+* 1 - Top 5 países mais felizes.
+
 Os países mais felizes, definidos por meio do índice de felicidade, foram:\
   1º - Finlândia: 7.821\
   2º - Dinamarca: 7.636\
@@ -18,7 +20,8 @@ Percebe-se uma predominância de países europeus entre os cinco primeiros do ra
 onde as pessoas se sentem suportadas pelo estado de bem-estar social, com baixos índices de corrupção e são lugares
 em que as pessoas tem garantido o direito de liberdade individual.
 
-* 2 - Top 5 países mais infelizes.\
+* 2 - Top 5 países mais infelizes.
+
 Os países mais infelizes, definidos por meio do índice de felicidade, foram:\
   1º - Afeganistão: 2.404\
   2º - Líbano: 2.955\
@@ -30,6 +33,7 @@ constantemente estão envolvidos em conflitos internos. Por fim, são países se
 apenas alguns dos motivos que podem explicar a posição destes países nos últimos lugares do ranking.
 
 * 3 - Qual dos fatores possui maior e menor correlação com o índice de felicidade?
+
 Temos seis fatores que explicam, ou poderiam explicar, os níveis de felicidade das pessoas em um país. São eles:
 PIB Per Capita, Suporte Social, Expectativa de Vida, Liberdade, Generosidade e Percepção de Corrupção. Queremos
 entender quais desses fatores possuem a maior e a menor relação, por meio do coeficiente de correlação, com o índice
@@ -45,6 +49,7 @@ com um coeficiente de correlação de 0.0638. A relação entre os dois índices
 talvez, um senso comum de que uma população mais generosa está associada a uma população mais feliz.
 
 * 4 - Quais são os 5 países com maior expectativa de vida e PIB Per Capita? Há alguma relação entre as variáveis?
+
 Os países que estão entre os melhores níveis de expectativa de vida e PIB Per Capita são:\
   1º - Luxemburgo: 1.50\
   2º - Singapura: 1.50\
