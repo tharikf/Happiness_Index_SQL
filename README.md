@@ -10,24 +10,28 @@ Fizemos as seguintes perguntas:
 
 * 1 - Top 5 países mais felizes.
 
-Os países mais felizes, definidos por meio do índice de felicidade, foram:\
-  1º - Finlândia: 7.821\
-  2º - Dinamarca: 7.636\
-  3º - Islândia: 7.557\
-  4º - Suíça: 7.512\
-  5º - Holanda: 7.415\
+Os países mais felizes, definidos por meio do índice de felicidade, foram:
+
+    1º - Finlândia: 7.821
+    2º - Dinamarca: 7.636
+    3º - Islândia: 7.557
+    4º - Suíça: 7.512
+    5º - Holanda: 7.415
+  
 Percebe-se uma predominância de países europeus entre os cinco primeiros do ranking. São países conhecidos por uma renda per capita elevada,
 onde as pessoas se sentem suportadas pelo estado de bem-estar social, com baixos índices de corrupção e são lugares
 em que as pessoas tem garantido o direito de liberdade individual.
 
 * 2 - Top 5 países mais infelizes.
 
-Os países mais infelizes, definidos por meio do índice de felicidade, foram:\
-  1º - Afeganistão: 2.404\
-  2º - Líbano: 2.955\
-  3º - Zimbábue: 2.995\
-  4º - Ruanda: 3.268\
-  5º - Botsuana: 3.471\
+Os países mais infelizes, definidos por meio do índice de felicidade, foram:
+
+    1º - Afeganistão: 2.404
+    2º - Líbano: 2.955
+    3º - Zimbábue: 2.995
+    4º - Ruanda: 3.268
+    5º - Botsuana: 3.47
+
 Entre esses países percebemos alguns padrões. Primeiro, são países predominantemente pobres. Esses também são países que
 constantemente estão envolvidos em conflitos internos. Por fim, são países sem um sistema democrático consolidado. Esses são
 apenas alguns dos motivos que podem explicar a posição destes países nos últimos lugares do ranking.
@@ -50,12 +54,13 @@ talvez, um senso comum de que uma população mais generosa está associada a um
 
 * 4 - Quais são os 5 países com maior expectativa de vida e PIB Per Capita? Há alguma relação entre as variáveis?
 
-Os países que estão entre os melhores níveis de expectativa de vida e PIB Per Capita são:\
-  1º - Luxemburgo: 1.50\
-  2º - Singapura: 1.50\
-  3º - Irlanda: 1.45\
-  4º - Hong Kong: 1.45\
-  5º - Suiça: 1.42\
+Os países que estão entre os melhores níveis de expectativa de vida e PIB Per Capita são:
+
+    1º - Luxemburgo: 1.50
+    2º - Singapura: 1.50
+    3º - Irlanda: 1.45
+    4º - Hong Kong: 1.45
+    5º - Suiça: 1.42
 
 Para obter esses resultados foi calculada uma média por meio dos valores de cada país para expectativa de vida
 e PIB Per Capita, o resultado é o valor apresentado acima para os cinco melhores países no quesito. O resultado
