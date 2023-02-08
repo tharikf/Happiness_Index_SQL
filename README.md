@@ -68,6 +68,14 @@ de vida maior.
 
 
 * 5 - A percepção de generosidade depende do PIB Per Capita?
+
+Com essa pergunta queremos saber se há alguma associação entre PIB Per Capita e a percepção de generosidade
+por parte dos habitantes de um país. O coeficiente de correlação foi de -0.1645, indicando que quanto maior o
+PIB Per Capita, menor a percepção de generosidade da população. O resultado é coerente com o encontrado na terceira
+pergunta, já que a relação entre generosidade e o índice de felicidade é quase nula, enquanto a relação entre PIB Per Capita
+e o índice de felicidade é a segunda maior associação entre as variáveis e o índice que determina a felicidade. Contudo,
+apesar do sinal negativo do coeficiente, o valor indica uma associação fraca entre os indicadores.
+
 * 6 - Qual a relação entre corrupção e PIB Per Capita?
 * 7 - Quais são os 5 países que estão mais distantes do país distópico de referência?
 * 8 - Qual é a média do índice de felicidade por região do planeta?
